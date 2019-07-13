@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [计算机是什么？](https://smite.site/articles/2019/07/13/1562980501610.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
