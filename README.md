@@ -10,6 +10,8 @@ Smite 的个人博客
 
 ### 最新
 
+* [shell脚本技巧整理](https://smite.site/articles/2019/07/19/1563526506898.html)
+* [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
 * [计算机是什么？](https://smite.site/articles/2019/07/13/1562980501610.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
