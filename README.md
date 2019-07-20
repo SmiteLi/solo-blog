@@ -10,6 +10,9 @@ Smite 的个人博客
 
 ### 最新
 
+* [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
+* [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
+* [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [shell脚本技巧整理](https://smite.site/articles/2019/07/19/1563526506898.html)
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
