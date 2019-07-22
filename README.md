@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
