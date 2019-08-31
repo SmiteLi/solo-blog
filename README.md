@@ -10,6 +10,8 @@ Smite 的个人博客
 
 ### 最新
 
+* [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
+* [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
