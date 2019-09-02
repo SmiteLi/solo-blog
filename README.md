@@ -10,6 +10,14 @@ Smite 的个人博客
 
 ### 最新
 
+* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
+* [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
+* [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
+* [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
+* [ansible入门](https://smite.site/articles/2019/09/02/1567408258989.html)
+* [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
+* [安装ansible](https://smite.site/articles/2019/09/02/1567406217520.html)
+* [ansible使用](https://smite.site/articles/2019/09/02/1567383979702.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
@@ -22,6 +30,9 @@ Smite 的个人博客
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
+
+### 热门
+
 * [世界，你好！](https://smite.site/hello-solo)
 
 
