@@ -33,8 +33,8 @@ Smite 的个人博客
 
 ### 热门
 
-* [世界，你好！](https://smite.site/hello-solo)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
+* [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
 
