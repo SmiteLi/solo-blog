@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [EXAMPLES of find command in linux](https://smite.site/articles/2019/09/08/1567951229098.html)
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
 * [Set the bash PS1](https://smite.site/articles/2019/09/05/1567672512586.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
@@ -29,13 +30,13 @@ Smite 的个人博客
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
-* [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 
 ### 热门
 
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
+* [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
 
 
