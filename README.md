@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [Mongodb backup daily](https://smite.site/articles/2019/09/11/1568187187538.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
 * [EXAMPLES of find command in linux](https://smite.site/articles/2019/09/08/1567951229098.html)
@@ -29,12 +30,12 @@ Smite 的个人博客
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
-* [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 
 ### 热门
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
+* [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
