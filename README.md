@@ -42,9 +42,9 @@ Smite 的个人博客
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
+* [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
-* [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
 
 
