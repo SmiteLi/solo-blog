@@ -5,11 +5,12 @@ Smite 的个人博客
 <h4 align="center">记录人生点滴</h4>
 <p align="center"><a title="Smite 的个人博客" target="_blank" href="https://github.com/SmiteLi/solo-blog"><img src="https://img.shields.io/github/last-commit/SmiteLi/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/SmiteLi/solo-blog"><img src="https://img.shields.io/github/repo-size/SmiteLi/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/SmiteLi/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [set sudo for a user](https://smite.site/articles/2019/09/19/1568900626840.html)
 * [Install activemq on linux](https://smite.site/articles/2019/09/18/1568787655839.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
 * [the skill of docker](https://smite.site/articles/2019/09/16/1568616618160.html)
@@ -29,15 +30,14 @@ Smite 的个人博客
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible入门](https://smite.site/articles/2019/09/02/1567408258989.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
-* [安装ansible](https://smite.site/articles/2019/09/02/1567406217520.html)
 
 ### 热门
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
-* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [世界，你好！](https://smite.site/hello-solo)
+* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
@@ -45,6 +45,7 @@ Smite 的个人博客
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
+* [安装ansible](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [ansible使用](https://smite.site/articles/2019/09/02/1567383979702.html)
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
 
