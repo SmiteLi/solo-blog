@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [ssh使用私钥文件登陆远程服务器](https://smite.site/articles/2019/09/27/1569577416252.html)
 * [install docker-compose](https://smite.site/articles/2019/09/26/1569486682446.html)
 * [centos7.3修改内核参数](https://smite.site/articles/2019/09/24/1569309048141.html)
 * [Linux安全保障调整](https://smite.site/articles/2019/09/21/1569037816233.html)
@@ -29,15 +30,14 @@ Smite 的个人博客
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
 * [Set the bash PS1](https://smite.site/articles/2019/09/05/1567672512586.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
-* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 
 ### 热门
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
-* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
+* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
@@ -45,6 +45,7 @@ Smite 的个人博客
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
+* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
 * [安装ansible](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
@@ -52,9 +53,10 @@ Smite 的个人博客
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible使用](https://smite.site/articles/2019/09/02/1567383979702.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
+
+### 热议
+
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
-
-
 
 ---
 
