@@ -10,6 +10,8 @@ Smite 的个人博客
 
 ### 最新
 
+* [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
+* [ansible后台执行和多线程执行](https://smite.site/articles/2019/10/08/1570532905403.html)
 * [centos7上安装mysql5.7](https://smite.site/articles/2019/10/07/1570448499092.html)
 * [mysql导入csv文件](https://smite.site/articles/2019/10/07/1570448123854.html)
 * [CentOS7系统配置国内yum源和epel源](https://smite.site/articles/2019/10/06/1570371750410.html)
@@ -28,15 +30,14 @@ Smite 的个人博客
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
 * [the skill of docker](https://smite.site/articles/2019/09/16/1568616618160.html)
 * [docker base](https://smite.site/articles/2019/09/16/1568615119140.html)
-* [On Linux，change root password in one command](https://smite.site/articles/2019/09/12/1568273318782.html)
-* [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
 
 ### 热门
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [Mongodb backup daily](https://smite.site/articles/2019/09/11/1568187187538.html)
-* [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
+* [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
+* [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
@@ -47,23 +48,24 @@ Smite 的个人博客
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
+* [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
-* [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
+* [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
-* [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
-* [安装ansible](https://smite.site/articles/2019/09/02/1567406217520.html)
 
 ### 热议
 
 * [A bird！！！](https://smite.site/articles/2019/06/10/1560176729708.html)
-* [ansible使用](https://smite.site/articles/2019/09/02/1567383979702.html)
-* [ansible入门](https://smite.site/articles/2019/09/02/1567408258989.html)
+* [shell脚本从零实战——终端显示](https://smite.site/articles/2019/07/16/1563287012292.html)
+* [Ansible从入门到实战（4）-Ansible常用模块A篇](https://smite.site/articles/2019/09/02/1567383979702.html)
+* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
 * [Set the bash PS1](https://smite.site/articles/2019/09/05/1567672512586.html)
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
 * [EXAMPLES of find command in linux](https://smite.site/articles/2019/09/08/1567951229098.html)
+* [On Linux，change root password in one command](https://smite.site/articles/2019/09/12/1568273318782.html)
 
 ---
 
