@@ -49,8 +49,8 @@ Smite 的个人博客
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
-* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
+* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 
