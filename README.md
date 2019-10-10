@@ -10,6 +10,7 @@ Smite 的个人博客
 
 ### 最新
 
+* [Ansible从入门到实战（1）-Ansible安装（离线）](https://smite.site/articles/2019/10/10/1570690567322.html)
 * [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
 * [ansible后台执行和多线程执行](https://smite.site/articles/2019/10/08/1570532905403.html)
 * [centos7上安装mysql5.7](https://smite.site/articles/2019/10/07/1570448499092.html)
@@ -29,7 +30,6 @@ Smite 的个人博客
 * [Install activemq on linux](https://smite.site/articles/2019/09/18/1568787655839.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
 * [the skill of docker](https://smite.site/articles/2019/09/16/1568616618160.html)
-* [docker base](https://smite.site/articles/2019/09/16/1568615119140.html)
 
 ### 热门
 
@@ -45,10 +45,10 @@ Smite 的个人博客
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
+* [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
-* [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
@@ -66,6 +66,7 @@ Smite 的个人博客
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
 * [EXAMPLES of find command in linux](https://smite.site/articles/2019/09/08/1567951229098.html)
 * [On Linux，change root password in one command](https://smite.site/articles/2019/09/12/1568273318782.html)
+* [docker base](https://smite.site/articles/2019/09/16/1568615119140.html)
 
 ---
 
