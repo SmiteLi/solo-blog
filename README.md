@@ -5,7 +5,7 @@ IT技术札记 - Smite 的个人博客
 <h4 align="center">记录人生点滴</h4>
 <p align="center"><a title="IT技术札记 - Smite 的个人博客" target="_blank" href="https://github.com/SmiteLi/solo-blog"><img src="https://img.shields.io/github/last-commit/SmiteLi/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/SmiteLi/solo-blog"><img src="https://img.shields.io/github/repo-size/SmiteLi/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/SmiteLi/solo-blog.svg"></a></p>
 
 ### 最新
@@ -35,8 +35,8 @@ IT技术札记 - Smite 的个人博客
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [Mongodb backup daily](https://smite.site/articles/2019/09/11/1568187187538.html)
-* [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
+* [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [centos7.3修改内核参数](https://smite.site/articles/2019/09/24/1569309048141.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
@@ -47,11 +47,11 @@ IT技术札记 - Smite 的个人博客
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
-* [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
+* [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
-* [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
+* [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 
 ### 热议
