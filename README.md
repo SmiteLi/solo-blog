@@ -42,8 +42,8 @@ IT技术札记 - Smite 的个人博客
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
-* [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
+* [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
@@ -52,7 +52,7 @@ IT技术札记 - Smite 的个人博客
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
-* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
+* [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 
 ### 热议
 
@@ -61,8 +61,8 @@ IT技术札记 - Smite 的个人博客
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [Ansible从入门到实战（4）-Ansible常用模块A篇](https://smite.site/articles/2019/09/02/1567383979702.html)
 * [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
-* [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
+* [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
 * [Set the bash PS1](https://smite.site/articles/2019/09/05/1567672512586.html)
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
