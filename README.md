@@ -10,6 +10,8 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [ansible普通用户使用sudo管理](https://smite.site/articles/2019/11/04/1572850841277.html)
+* [sed 使用实例](https://smite.site/articles/2019/11/04/1572835822714.html)
 * [consul的docker cluster使用](https://smite.site/articles/2019/10/31/1572503173904.html)
 * [Linux修改用户密码过期时间](https://smite.site/articles/2019/10/30/1572433687656.html)
 * [mongodb](https://smite.site/articles/2019/10/29/1572342238854.html)
@@ -28,8 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
 * [ansible后台执行和多线程执行](https://smite.site/articles/2019/10/08/1570532905403.html)
 * [centos7上安装mysql5.7](https://smite.site/articles/2019/10/07/1570448499092.html)
-* [mysql导入csv文件](https://smite.site/articles/2019/10/07/1570448123854.html)
-* [CentOS7系统配置国内yum源和epel源](https://smite.site/articles/2019/10/06/1570371750410.html)
 
 ### 热门
 
@@ -42,8 +42,8 @@ IT技术札记 - Smite 的个人博客
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
 * [世界，你好！](https://smite.site/hello-solo)
-* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
+* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
