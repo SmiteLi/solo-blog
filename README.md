@@ -39,8 +39,8 @@ IT技术札记 - Smite 的个人博客
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7.3修改内核参数](https://smite.site/articles/2019/09/24/1569309048141.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
-* [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
+* [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
@@ -51,7 +51,7 @@ IT技术札记 - Smite 的个人博客
 * [linux审计工具lynis](https://smite.site/articles/2019/09/20/1568948341218.html)
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
-* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
+* [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 * [docker base](https://smite.site/articles/2019/09/16/1568615119140.html)
 
 ### 热议
@@ -61,8 +61,8 @@ IT技术札记 - Smite 的个人博客
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Ansible从入门到实战（4）-Ansible常用模块A篇](https://smite.site/articles/2019/09/02/1567383979702.html)
+* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
-* [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
