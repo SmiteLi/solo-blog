@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [git源码编译](https://smite.site/articles/2019/11/19/1574135696340.html)
 * [centos7配置开机脚本](https://smite.site/articles/2019/11/14/1573703720152.html)
 * [ansible普通用户使用sudo管理](https://smite.site/articles/2019/11/04/1572850841277.html)
 * [sed 使用实例](https://smite.site/articles/2019/11/04/1572835822714.html)
@@ -29,7 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [安装python最新版本](https://smite.site/articles/2019/10/18/1571378403620.html)
 * [Ansible从入门到实战（1）-Ansible安装（离线）](https://smite.site/articles/2019/10/10/1570690567322.html)
 * [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
-* [ansible后台执行和多线程执行](https://smite.site/articles/2019/10/08/1570532905403.html)
 
 ### 热门
 
@@ -52,7 +52,7 @@ IT技术札记 - Smite 的个人博客
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 * [centos7使用chrony进行ntp时间同步](https://smite.site/articles/2019/06/12/1560329546479.html)
-* [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
+* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 
 ### 热议
 
@@ -61,7 +61,7 @@ IT技术札记 - Smite 的个人博客
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Ansible从入门到实战（4）-Ansible常用模块A篇](https://smite.site/articles/2019/09/02/1567383979702.html)
-* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
+* [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
 * [elk快速入门](https://smite.site/articles/2019/09/04/1567578582388.html)
