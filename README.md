@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [【引用】搭建本地yum仓库](https://smite.site/articles/2019/11/22/1574393334735.html)
 * [curl获取网页响应时间](https://smite.site/articles/2019/11/20/1574249158070.html)
 * [查看linux的服务的日志](https://smite.site/articles/2019/11/20/1574219737259.html)
 * [git源码编译](https://smite.site/articles/2019/11/19/1574135696340.html)
@@ -29,14 +30,13 @@ IT技术札记 - Smite 的个人博客
 * [docker仓库管理工具harbor安装](https://smite.site/articles/2019/10/19/1571461863269.html)
 * [pyenv安装使用](https://smite.site/articles/2019/10/18/1571382043989.html)
 * [jupyter安装使用](https://smite.site/articles/2019/10/18/1571380330907.html)
-* [安装python最新版本](https://smite.site/articles/2019/10/18/1571378403620.html)
 
 ### 热门
 
 * [shell-巡检脚本](https://smite.site/articles/2019/07/19/1563519431599.html)
 * [Mongodb backup daily](https://smite.site/articles/2019/09/11/1568187187538.html)
-* [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
 * [Ansible从入门到实战（1）-Ansible安装（离线）](https://smite.site/articles/2019/10/10/1570690567322.html)
+* [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
 * [centos7.3修改内核参数](https://smite.site/articles/2019/09/24/1569309048141.html)
 * [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
