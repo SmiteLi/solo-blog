@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [mongodb添加用户和管理](https://smite.site/articles/2019/12/02/1575259110437.html)
 * [Write Scripts for the mongo Shell](https://smite.site/articles/2019/11/29/1575019588800.html)
 * [mongo shell连接mongodb](https://smite.site/articles/2019/11/29/1575015937344.html)
 * [mongodb副本集主从手动切换](https://smite.site/articles/2019/11/28/1574946340445.html)
@@ -29,7 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [redis从入门到实战（4）-redis主从复制原理](https://smite.site/articles/2019/10/22/1571724952553.html)
 * [ssh配置config文件实现简化登陆](https://smite.site/articles/2019/10/22/1571713240035.html)
 * [redis从入门到实战（3）-redis.conf知多少](https://smite.site/articles/2019/10/21/1571648905939.html)
-* [redis从入门到实战（2）-redis-cli命令的使用](https://smite.site/articles/2019/10/21/1571647059548.html)
 
 ### 热门
 
@@ -44,8 +44,8 @@ IT技术札记 - Smite 的个人博客
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
 * [世界，你好！](https://smite.site/hello-solo)
-* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
+* [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
