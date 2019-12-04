@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [docker版jenkins部署](https://smite.site/articles/2019/12/04/1575439797964.html)
 * [mongodb添加用户和管理](https://smite.site/articles/2019/12/02/1575259110437.html)
 * [Write Scripts for the mongo Shell](https://smite.site/articles/2019/11/29/1575019588800.html)
 * [mongo shell连接mongodb](https://smite.site/articles/2019/11/29/1575015937344.html)
@@ -29,7 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [redis从入门到实战（5）-redis数据持久化](https://smite.site/articles/2019/10/22/1571725412117.html)
 * [redis从入门到实战（4）-redis主从复制原理](https://smite.site/articles/2019/10/22/1571724952553.html)
 * [ssh配置config文件实现简化登陆](https://smite.site/articles/2019/10/22/1571713240035.html)
-* [redis从入门到实战（3）-redis.conf知多少](https://smite.site/articles/2019/10/21/1571648905939.html)
 
 ### 热门
 
@@ -38,8 +38,8 @@ IT技术札记 - Smite 的个人博客
 * [Ansible从入门到实战（1）-Ansible安装（离线）](https://smite.site/articles/2019/10/10/1570690567322.html)
 * [Redis backup file daily](https://smite.site/articles/2019/09/12/1568255347994.html)
 * [centos7.3修改内核参数](https://smite.site/articles/2019/09/24/1569309048141.html)
-* [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [docker save/load/export/import](https://smite.site/articles/2019/09/16/1568627164223.html)
+* [lvm卷的使用](https://smite.site/articles/2019/07/22/1563798784406.html)
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
