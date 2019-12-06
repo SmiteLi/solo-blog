@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [docker registry的使用](https://smite.site/articles/2019/12/06/1575600829014.html)
 * [docker版jenkins部署](https://smite.site/articles/2019/12/04/1575439797964.html)
 * [mongodb添加用户和管理](https://smite.site/articles/2019/12/02/1575259110437.html)
 * [Write Scripts for the mongo Shell](https://smite.site/articles/2019/11/29/1575019588800.html)
@@ -29,7 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [mongodb](https://smite.site/articles/2019/10/29/1572342238854.html)
 * [redis从入门到实战（5）-redis数据持久化](https://smite.site/articles/2019/10/22/1571725412117.html)
 * [redis从入门到实战（4）-redis主从复制原理](https://smite.site/articles/2019/10/22/1571724952553.html)
-* [ssh配置config文件实现简化登陆](https://smite.site/articles/2019/10/22/1571713240035.html)
 
 ### 热门
 
@@ -49,10 +49,10 @@ IT技术札记 - Smite 的个人博客
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
-* [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [linux审计工具lynis](https://smite.site/articles/2019/09/20/1568948341218.html)
+* [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
-* [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
+* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 
 ### 热议
 
@@ -62,7 +62,6 @@ IT技术札记 - Smite 的个人博客
 * [shell-3-数学运算](https://smite.site/articles/2019/07/20/1563615184000.html)
 * [find命令实例](https://smite.site/articles/2019/08/31/1567210719944.html)
 * [Ansible从入门到实战（4）-Ansible常用模块A篇](https://smite.site/articles/2019/09/02/1567383979702.html)
-* [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 * [ansible命令介绍](https://smite.site/articles/2019/09/02/1567408516348.html)
 * [ansible之Ad-Hoc命令简介](https://smite.site/articles/2019/09/02/1567408897272.html)
 * [ansible的inventory](https://smite.site/articles/2019/09/02/1567415545793.html)
@@ -70,6 +69,7 @@ IT技术札记 - Smite 的个人博客
 * [Set the bash PS1](https://smite.site/articles/2019/09/05/1567672512586.html)
 * [the loop of shell script](https://smite.site/articles/2019/09/05/1567674411515.html)
 * [EXAMPLES of find command in linux](https://smite.site/articles/2019/09/08/1567951229098.html)
+* [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
 * [On Linux，change root password in one command](https://smite.site/articles/2019/09/12/1568273318782.html)
 * [docker base](https://smite.site/articles/2019/09/16/1568615119140.html)
 * [the skill of docker](https://smite.site/articles/2019/09/16/1568616618160.html)
