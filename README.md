@@ -49,8 +49,8 @@ IT技术札记 - Smite 的个人博客
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
-* [linux审计工具lynis](https://smite.site/articles/2019/09/20/1568948341218.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
+* [linux审计工具lynis](https://smite.site/articles/2019/09/20/1568948341218.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
 * [Ansible从入门到实战（2）-Ansible初体验](https://smite.site/articles/2019/09/02/1567408258989.html)
 
