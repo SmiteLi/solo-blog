@@ -10,6 +10,7 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [mysql5.7的docker版安装](https://smite.site/articles/2019/12/10/1575965194012.html)
 * [docker registry的使用](https://smite.site/articles/2019/12/06/1575600829014.html)
 * [docker版jenkins部署](https://smite.site/articles/2019/12/04/1575439797964.html)
 * [mongodb添加用户和管理](https://smite.site/articles/2019/12/02/1575259110437.html)
@@ -29,7 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [Linux修改用户密码过期时间](https://smite.site/articles/2019/10/30/1572433687656.html)
 * [mongodb](https://smite.site/articles/2019/10/29/1572342238854.html)
 * [redis从入门到实战（5）-redis数据持久化](https://smite.site/articles/2019/10/22/1571725412117.html)
-* [redis从入门到实战（4）-redis主从复制原理](https://smite.site/articles/2019/10/22/1571724952553.html)
 
 ### 热门
 
@@ -43,15 +43,15 @@ IT技术札记 - Smite 的个人博客
 * [centos7修复引导](https://smite.site/articles/2019/06/11/1560227801329.html)
 * [Ansible从入门到实战（1）—— Ansible安装](https://smite.site/articles/2019/09/02/1567406217520.html)
 * [shell-2-变量与环境变量](https://smite.site/articles/2019/07/20/1563601922040.html)
-* [世界，你好！](https://smite.site/hello-solo)
 * [Ansible从入门到实战（3）-Ansible模块初接触](https://smite.site/articles/2019/10/08/1570533045056.html)
+* [世界，你好！](https://smite.site/hello-solo)
 * [shell脚本实例-1](https://smite.site/articles/2019/06/11/1560246472451.html)
 * [配置ansible](https://smite.site/articles/2019/09/02/1567406823399.html)
 * [Linux服务器上线前参数调整](https://smite.site/articles/2019/08/31/1567254500496.html)
 * [Set the startup script on Centos6.9](https://smite.site/articles/2019/09/10/1568087831690.html)
 * [ansible-config命令](https://smite.site/articles/2019/09/02/1567408812395.html)
-* [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [linux审计工具lynis](https://smite.site/articles/2019/09/20/1568948341218.html)
+* [shell-重定向](https://smite.site/articles/2019/07/20/1563616493883.html)
 * [The shell script of update file](https://smite.site/articles/2019/09/09/1568034492008.html)
 
 ### 热议
