@@ -10,6 +10,8 @@ IT技术札记 - Smite 的个人博客
 
 ### 最新
 
+* [a example of yaml file](https://smite.site/articles/2019/12/11/1576034777987.html)
+* [Linux系统alpine初体验](https://smite.site/articles/2019/12/11/1576033755726.html)
 * [mysql5.7的docker版安装](https://smite.site/articles/2019/12/10/1575965194012.html)
 * [docker registry的使用](https://smite.site/articles/2019/12/06/1575600829014.html)
 * [docker版jenkins部署](https://smite.site/articles/2019/12/04/1575439797964.html)
@@ -28,8 +30,6 @@ IT技术札记 - Smite 的个人博客
 * [sed 使用实例](https://smite.site/articles/2019/11/04/1572835822714.html)
 * [consul的docker cluster使用](https://smite.site/articles/2019/10/31/1572503173904.html)
 * [Linux修改用户密码过期时间](https://smite.site/articles/2019/10/30/1572433687656.html)
-* [mongodb](https://smite.site/articles/2019/10/29/1572342238854.html)
-* [redis从入门到实战（5）-redis数据持久化](https://smite.site/articles/2019/10/22/1571725412117.html)
 
 ### 热门
 
